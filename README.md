@@ -174,15 +174,6 @@ This project is intended as a lightweight embedded system example showing:
 - ADC-based measurements
 - PC-to-microcontroller communication
 
-## Possible Future Improvements
-
-- Save sensor configuration in EEPROM
-- Add more detailed error handling
-- Improve JSON response formatting
-- Add circuit diagram documentation
-- Improve the Python manager interface
-- Add tests for command parsing logic
-
 ## Author
 
-Created by [royalewski](https://github.com/royalewski).
+Created by [royalewski](https://github.com/royalewski). and Andrzej Ł. as an internship project.
